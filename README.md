@@ -10,8 +10,11 @@ Exploiting the fact that whenever light collides with a solid particle, it scatt
 ## How to use the Software? 
 
 1- Clone the repository or download the ZIP file
+
 2- Unzip the file and run Turbidity.m file
+
 3- Select the image sample from the given sampe images
+
 4- Wait for the process to complete. A message box will pop up displaying the Turbidity value.
 
 
