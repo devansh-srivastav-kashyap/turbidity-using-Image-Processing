@@ -15,7 +15,19 @@ Exploiting the fact that whenever light collides with a solid particle, it scatt
 
 3- Select the image sample from the given sampe images
 
+![Capture](https://user-images.githubusercontent.com/53121012/119776213-44bc2780-bee2-11eb-8d3b-d6c0e40024cb.PNG)
+
+
 4- Wait for the process to complete. A message box will pop up displaying the Turbidity value.
+
+Sample Image used- 
+
+![Capture1](https://user-images.githubusercontent.com/53121012/119776341-6ddcb800-bee2-11eb-9077-78878f29b397.PNG)
+
+Output-
+
+![Capture](https://user-images.githubusercontent.com/53121012/119776351-703f1200-bee2-11eb-9277-847f7b6160d1.PNG)
+
 
 
 
